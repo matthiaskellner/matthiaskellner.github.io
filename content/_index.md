@@ -13,10 +13,8 @@ sections:
         align: center
         background:
           image:
-            filename: coders.jpg
-            filters:
-              brightness: 0.7
-          position: right
+            filename: logo_single.svg
+          position: center
           color: '#666'
       - title: Lunch & Learn ☕️
         content: 'Share your knowledge with the group and explore exciting new topics together!'
