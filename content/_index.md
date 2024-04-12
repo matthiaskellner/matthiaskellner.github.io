@@ -8,14 +8,14 @@ sections:
   - block: slider
     content:
       slides:
-      - title: Taschner Mandl Group
-        content: At the Heart of Childrens Cancer Research
+      - title: ''
+        content: ''
         align: center
         background:
           image:
-            filename: logo_single.svg
+            filename: logo_single_expanded.svg
           position: center
-          color: '#666'
+          color: '#313066'
       - title: Lunch & Learn ☕️
         content: 'Share your knowledge with the group and explore exciting new topics together!'
         align: left
