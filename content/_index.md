@@ -12,13 +12,12 @@ sections:
         content: At the Heart of Childrens Cancer Research
         align: center
         background:
-#          image:
-#            filename: coders.jpg
-#            filters:
-#              brightness: 0.7
-#          position: right
-#          color: '#666'
-           color: '#313066'
+          image:
+            filename: coders.jpg
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#666'
       - title: Lunch & Learn ☕️
         content: 'Share your knowledge with the group and explore exciting new topics together!'
         align: left
