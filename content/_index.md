@@ -8,7 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title:
+      - title: 
+        content: 
         align: center
         background:
           image:
@@ -23,10 +24,10 @@ sections:
       loop: false
       # Duration of transition between slides (in ms)
       interval: 2000
+
   - block: markdown
     content:
       title: About us
       subtitle: Subtitle
-      text: Any **markdown** text. __Wooohoooo__.
-
+      text: Any markdown text
 ---
