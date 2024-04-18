@@ -7,7 +7,7 @@ first_name: Nelson
 last_name: Bighetti
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Professor of Artificial Intelligence
@@ -69,6 +69,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
+  - Principal Investigators
   - Researchers
 ---
 
