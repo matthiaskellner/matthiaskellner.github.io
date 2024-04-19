@@ -5,7 +5,6 @@ event: Test Conference
 event_url: https://example.org
 
 summary: This is a summary of the event, displayed in the listing of all events.
-abstract: It is currently unclear, where this abstract will be visible.
 
 # start and end times.
 # End time can optionally be hidden by prefixing the line with `#`.
@@ -32,6 +31,7 @@ featured: false
 #   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
 #   focal_point: Right
 
+# If URL is set, a button with the label "Code", "PDF", "Slides" or "Video" is displayed referring to the corresponding link
 url_code: 'http://example1.org'
 url_pdf: 'http://example2.org'
 url_slides: 'http://example3.org'

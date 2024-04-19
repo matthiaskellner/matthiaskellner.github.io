@@ -18,8 +18,8 @@ authors:
 # Is this the primary user of the site? (default false)
 superuser: false
 
-# Role/position -> options listed in 'content/people/index.md'
-role: Researcher
+# Role/position -> listed below the name (in peoples tab or under articles/events)
+role: Software Developer
 
 # Organizations/Affiliations
 #organizations:
@@ -63,7 +63,7 @@ social:
 email: ''
 
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+#   Set this to `[]` or comment out if you are not using People widget. -> options listed in 'content/people/index.md'
 user_groups:
   - Software Developer
 ---
