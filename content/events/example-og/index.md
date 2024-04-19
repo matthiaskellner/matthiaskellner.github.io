@@ -1,41 +1,43 @@
 ---
-title: Test Event
+title: Example Event
 
-event: Test Conference
+event: Wowchemy Conference
 event_url: https://example.org
 
-summary: This is a summary of the event, displayed in the listing of all events.
-abstract: It is currently unclear, where this abstract will be visible.
+location: Wowchemy HQ
+address:
+  street: 450 Serra Mall
+  city: Stanford
+  region: CA
+  postcode: '94305'
+  country: United States
 
-# start and end times.
-# End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-04-19'
-# date_end: '2024-04-19'
+summary: This is a summary displayed in the listing of all events.
+abstract: This abstract is shown when navigating to the events page.
+
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: '2024-04-04'
+date_end: '2024-04-05'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
 
-# add authors with their username
-authors:
-  - matthias-kellner
-  - sabine-taschner-mandl
-
-tags:
-  - Test
-  - Conference
+authors: []
+tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
 
-# image:
-#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-#   focal_point: Right
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  focal_point: Right
 
-url_code: 'http://example1.org'
-url_pdf: 'http://example2.org'
-url_slides: 'http://example3.org'
-url_video: 'http://example4.org'
+url_code: ''
+url_pdf: ''
+url_slides: ''
+url_video: ''
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -52,8 +54,10 @@ slides:
 projects:
 ---
 
-This is the main text talking about the event. It is possible to add slides to this site in multiple ways:
+Slides can be added in a few ways:
 
 - **Create** slides using Wowchemy's [_Slides_](https://docs.hugoblox.com/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
 - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/writing-markdown-latex/).
+
+Further event details, including page elements such as image galleries, can be added to the body of this page.
