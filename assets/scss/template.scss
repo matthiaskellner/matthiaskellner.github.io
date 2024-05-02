@@ -19,7 +19,8 @@ div.row.justify-content-center.people-widget h2.mb-4 {
 }
 
 div.carousel-item.active.fullscreen {
-  object-fit: contain !important;
+  width: 100vw;
+  height: 100vh;
 }
 
 //body {
