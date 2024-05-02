@@ -2,7 +2,7 @@
 title: "An example journal article"
 authors:
   - sabine-taschner-mandl
-  - admin
+  - matthias-kellner
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
