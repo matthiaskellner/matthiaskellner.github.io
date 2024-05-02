@@ -1,7 +1,7 @@
 ---
 ############################################################
 #         Want to add an image for the person?
-#  Add image with name 'avatar.jpg' (also png?) to folder
+#  Add image with name 'avatar.jpg' (or .png) to folder
 ############################################################
 
 # Display name
@@ -27,7 +27,7 @@ role: Software Developer
 #    url: 'https://fh-ooe.at/en/campus-hagenberg?campus=hagenberg'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include software development and image processing.
+bio: My field of work includes software development and image processing.
 
 interests:
   - Artificial Intelligence
