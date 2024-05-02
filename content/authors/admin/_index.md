@@ -13,7 +13,7 @@ last_name: Kellner
 
 # Username (this should match the folder name)
 authors:
-  - matthias-kellner
+  - admin
 
 # Is this the primary user of the site? (default false)
 superuser: false

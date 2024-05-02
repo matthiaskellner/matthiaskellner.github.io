@@ -17,7 +17,7 @@ publishDate: '2017-01-01T00:00:00Z'
 
 # add authors with their username
 authors:
-  - matthias-kellner
+  - admin
   - sabine-taschner-mandl
 
 tags:
