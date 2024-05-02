@@ -9,17 +9,17 @@
 }
 
 div.col-12.col-sm-auto.people-person img.avatar.avatar-circle {
-  width: 100px !important;
-  height: 100px !important;
+  width: 120px !important;
+  height: 120px !important;
 }
 
 div.row.justify-content-center.people-widget h2.mb-4 {
-  font-size: 1rem !important;
-  margin-bottom: 1rem !important;
+  font-size: 1.25rem !important;
+  margin-bottom: 1.25rem !important;
 }
 
 div.carousel-item.active.fullscreen {
-  width: 100% !important;
+  object-fit: contain !important;
 }
 
 //body {
