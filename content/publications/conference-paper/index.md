@@ -7,7 +7,9 @@ title: 'An example conference paper'
 authors:
   - matthias-kellner
   - admin
-
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
 date: '2013-07-01T00:00:00Z'
 doi: ''
 
