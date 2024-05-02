@@ -16,7 +16,7 @@ authors:
   - matthias-kellner
 
 # Is this the primary user of the site? (default false)
-superuser: true
+superuser: false
 
 # Role/position -> listed below the name (in peoples tab or under articles/events)
 role: Software Developer
