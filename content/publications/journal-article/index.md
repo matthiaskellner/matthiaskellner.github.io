@@ -2,13 +2,11 @@
 title: "An example journal article"
 authors:
   - sabine-taschner-mandl
-  - matthias-kellner
   - admin
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
-  - 'Supervision'
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
