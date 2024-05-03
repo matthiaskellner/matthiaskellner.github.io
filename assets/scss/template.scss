@@ -11,6 +11,7 @@
 div.col-12.col-sm-auto.people-person img.avatar.avatar-circle {
   width: 125px !important;
   height: 125px !important;
+  margin-top: 1rem !important;
 }
 
 div.row.justify-content-center.people-widget h2.mb-4 {
@@ -40,4 +41,12 @@ a.btn.btn-outline-primary {
   &:hover {
     background-color: #313066 !important;
   } 
+}
+
+a.nav-link-active span {
+  color: #313066 !important;
+}
+
+div#search-box input.form-control:focus {
+  box-shadow: 0 0 0 0.2rem #313066 !important;
 }
