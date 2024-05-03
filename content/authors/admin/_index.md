@@ -11,8 +11,8 @@ title: Matthias Kellner
 first_name: Matthias
 last_name: Kellner
 
-# For sorting in people page
-sorting_idx: 2
+# For sorting in people page (lastname)
+sorting: Kellner
 
 # Username (this should match the folder name)
 authors:

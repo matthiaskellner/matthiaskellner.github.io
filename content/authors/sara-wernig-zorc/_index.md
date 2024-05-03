@@ -11,8 +11,8 @@ title: Sara Wernig-Zorc
 first_name: Sara
 last_name: Wernig-Zorc
 
-# For sorting in people page
-sorting_idx: 2
+# For sorting in people page (lastname)
+sorting: Wernig-zorc
 
 # Username (this should match the folder name) -> used to mark user as the author of a post
 authors:
