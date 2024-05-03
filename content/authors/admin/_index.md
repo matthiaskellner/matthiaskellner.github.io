@@ -65,7 +65,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget. -> options listed in 'content/people/index.md'
 user_groups:
-  - Software Developer
+  - Members
 ---
 
 I am currently studying Data Science and Engineering at the University of Applied Sciences Hagenberg, after having completed my Bachelor’s degree in Software Engineering at the same university. At CCRI, I am working as a software developer in Sabine Taschner-Mandl’s group. My task is to develop a web service that provides easy access to existing AI models and algorithms for the detection of alternative lengthening of telomeres in fluorescence in situ hybridization microscopy images.
