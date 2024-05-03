@@ -18,7 +18,7 @@ authors:
 # Is this the primary user of the site? (default false)
 superuser: false
 
-# Role/position -> options listed in 'content/people/index.md'
+# Role/position -> listed below the name (in peoples tab or under articles/events)
 role: Postdoctoral Fellow
 
 # Organizations/Affiliations

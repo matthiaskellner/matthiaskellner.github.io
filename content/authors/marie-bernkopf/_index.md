@@ -5,15 +5,15 @@
 ############################################################
 
 # Display name
-title: Eva Bozsaky
+title: Marie Bernkopf
 
 # Full Name (for SEO)
-first_name: Eva
-last_name: Bozsaky
+first_name: Marie
+last_name: Bernkopf
 
 # Username (this should match the folder name) -> used to mark user as the author of a post
 authors:
-  - eva-bozsaky
+  - marie-bernkopf
 
 # Is this the primary user of the site? (default false)
 superuser: false
@@ -45,7 +45,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:eva.bozsaky@ccri.at'
+    link: 'mailto:marie.bernkopf@ccri.at'
 #  - icon: google-scholar
 #    icon_pack: ai
 #    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ

@@ -12,6 +12,7 @@ first_name: Matthias
 last_name: Kellner
 
 # Username (this should match the folder name)
+# For some reason it is mandatory at all times that one author is named 'admin'. Changing this broke the page :(
 authors:
   - admin
 

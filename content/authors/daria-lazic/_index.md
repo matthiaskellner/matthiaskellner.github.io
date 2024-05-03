@@ -5,21 +5,21 @@
 ############################################################
 
 # Display name
-title: Eva Bozsaky
+title: Daria Lazic
 
 # Full Name (for SEO)
-first_name: Eva
-last_name: Bozsaky
+first_name: Daria
+last_name: Lazic
 
 # Username (this should match the folder name) -> used to mark user as the author of a post
 authors:
-  - eva-bozsaky
+  - daria-lazic
 
 # Is this the primary user of the site? (default false)
 superuser: false
 
 # Role/position -> listed below the name (in peoples tab or under articles/events)
-role: Staff Scientist
+role: PhD Student
 
 # Organizations/Affiliations
 #organizations:
@@ -45,7 +45,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:eva.bozsaky@ccri.at'
+    link: 'mailto:daria.lazic@ccri.at'
 #  - icon: google-scholar
 #    icon_pack: ai
 #    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ

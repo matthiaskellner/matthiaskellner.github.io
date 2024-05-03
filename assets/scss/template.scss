@@ -29,17 +29,15 @@ body {
 
 a {
   color: #313066 !important;
-}
-
-a:hover {
-  color: #f4b562 !important;
+  transition: all .1s ease !important;
+  &:hover {
+    color: #f4b562 !important;
+  }
 }
 
 a.btn.btn-outline-primary {
   border-color: #313066 !important;
-  transition: all .15s ease !important;
-}
-
-a.btn.btn-outline-primary:hover {
-  background-color: #313066 !important;
+  &:hover {
+    background-color: #313066 !important;
+  } 
 }
