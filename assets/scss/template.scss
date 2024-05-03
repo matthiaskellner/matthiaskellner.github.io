@@ -9,8 +9,8 @@
 }
 
 div.col-12.col-sm-auto.people-person img.avatar.avatar-circle {
-  width: 120px !important;
-  height: 120px !important;
+  width: 100px !important;
+  height: 100px !important;
 }
 
 div.row.justify-content-center.people-widget h2.mb-4 {
@@ -18,11 +18,10 @@ div.row.justify-content-center.people-widget h2.mb-4 {
   margin-bottom: 1.25rem !important;
 }
 
-//div.carousel-item.active.fullscreen {
-//  width: 100vw !important;
-//  height: 100vh !important;
-//}
+div.carousel-item.active.fullscreen {
+  width: 100vw !important;
+}
 
-//body {
-//  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif !important;
-//}
+body {
+  font-family: Helvetica, Arial, sans-serif !important;
+}
