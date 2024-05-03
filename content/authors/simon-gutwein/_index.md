@@ -11,6 +11,9 @@ title: Simon Gutwein
 first_name: Simon
 last_name: Gutwein
 
+# For sorting in people page
+sorting_idx: 2
+
 # Username (this should match the folder name) -> used to mark user as the author of a post
 authors:
   - simon-gutwein
