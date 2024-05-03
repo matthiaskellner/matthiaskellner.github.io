@@ -12,7 +12,7 @@ sections:
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
           - Members
-      sort_by: Params.sort
+      sort_by: Params.role
       sort_ascending: true
     design:
       show_interests: false

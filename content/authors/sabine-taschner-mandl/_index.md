@@ -11,9 +11,6 @@ title: Sabine Taschner-Mandl
 first_name: Sabine
 last_name: Taschner-Mandl
 
-# For sorting in people page (here 'Aaa' for first place in order)
-sort: "Aaa"
-
 # Username (this should match the folder name) -> used to mark user as the author of a post
 authors:
   - sabine-taschner-mandl
