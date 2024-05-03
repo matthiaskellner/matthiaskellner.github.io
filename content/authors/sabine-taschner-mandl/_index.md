@@ -11,14 +11,14 @@ title: Sabine Taschner-Mandl
 first_name: Sabine
 last_name: Taschner-Mandl
 
-# For sorting in people page (here 'aaa' for first place in order)
+# For sorting in people page (here 'Aaa' for first place in order)
 sorting_crit: Aaa
 
 # Username (this should match the folder name) -> used to mark user as the author of a post
 authors:
   - sabine-taschner-mandl
 
-# Is this the primary user of the site?
+# Is this the primary user of the site? (default false)
 superuser: false
 
 # Role/position -> options listed in 'content/people/index.md'

@@ -18,7 +18,7 @@ sorting_crit: Bozsaky
 authors:
   - eva-bozsaky
 
-# Is this the primary user of the site?
+# Is this the primary user of the site? (default false)
 superuser: false
 
 # Role/position -> options listed in 'content/people/index.md'
