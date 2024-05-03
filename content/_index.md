@@ -15,7 +15,7 @@ sections:
           image:
             filename: logo_single_expanded.svg
           position: center
-          color: '#000000'
+          color: '#313066'
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
