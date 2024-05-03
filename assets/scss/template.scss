@@ -43,10 +43,10 @@ a.btn.btn-outline-primary {
   } 
 }
 
-a.nav-link-active span {
+a.nav-link.active span {
   color: #313066 !important;
 }
 
 div#search-box input.form-control:focus {
-  box-shadow: 0 0 0 0.2rem #313066 !important;
+  box-shadow: 0 0 0 0.2rem #f4b562 !important;
 }
