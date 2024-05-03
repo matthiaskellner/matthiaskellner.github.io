@@ -12,7 +12,7 @@ first_name: Matthias
 last_name: Kellner
 
 # For sorting in people page (lastname)
-sorting_crit: Kellner
+sorting_crit: "Kellner"
 
 # Username (this should match the folder name)
 authors:

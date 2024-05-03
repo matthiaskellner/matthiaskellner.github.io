@@ -12,7 +12,7 @@ first_name: Eva
 last_name: Bozsaky
 
 # For sorting in people page (lastname)
-sorting_crit: Bozsaky
+sorting_crit: "Bozsaky"
 
 # Username (this should match the folder name) -> used to mark user as the author of a post
 authors:
