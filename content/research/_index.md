@@ -7,8 +7,8 @@ sections:
     id: posts
     content:
       title: Research
-      subtitle: ''
-      text: "Dive into our latest research!"
+      subtitle: "Dive into our latest research!"
+      text: ''
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Filter on criteria
