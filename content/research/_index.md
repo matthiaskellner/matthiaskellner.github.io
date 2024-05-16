@@ -34,5 +34,5 @@ sections:
       # Choose a listing view
       view: 2
       # Choose single or dual column layout
-      columns: '1'
+      columns: '2'
 ---
