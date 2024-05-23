@@ -4,3 +4,16 @@ module:
     - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-decap-cms
     - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify
     - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5
+
+collections:
+  - name: "research"
+    label: "research"
+    folder: "content/research"
+    create: true
+    slug: "{{day}-{month}-{year}-{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Summary", name: "summary", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Tags", name: "tags", widget: "list", default: ["Research"] }
+      - { label: "Body", name: "body", widget: "markdown" }
