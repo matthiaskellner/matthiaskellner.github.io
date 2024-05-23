@@ -1,8 +1,8 @@
 ---
 # Generate the /admin/ page
-type: wowchemycms
+type: bloxcms
 private: true
 outputs:
-  - wowchemycms_config
+  - bloxcms_config
   - HTML
 ---
