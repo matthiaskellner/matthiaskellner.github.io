@@ -10,7 +10,7 @@ sections:
 
   - block: markdown
     content:
-      title: **Our research**
+      title: Our research
       text: |
         <div style="display: flex; align-items: center;">
           <div style="flex: 1; padding: 10px;">
