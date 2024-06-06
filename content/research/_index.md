@@ -18,7 +18,7 @@ sections:
             <p>One of our main research interests is the biology of high-risk neuroblastoma. Patients that are diagnosed and stratified as high-risk suffer from relapses and metastases and their survival rate remains below 40% despite intensive multimodal treatment. To date there are only a few driver genes linked to the pathogenesis of high-risk neuroblastoma, most of which are not directly druggable and frequently insufficient response to therapy is observed. In our group, we employ state-of-the-art technologies, such as genome-wide and targeted CRISPR/Cas9 screens and single cell genomics and epigenomics in order to identify the oncogenic drivers and epigenetic dependencies in tumours from high-risk neuroblastoma patients. We have established in vitro and in vivo preclinical patient-derived models for functional assays and drug testing for precision oncology that can be translated into existing and new clinical trials with the ultimate goal to improve treatment outcomes and survival of high-risk neuroblastoma patients.</p>
           </div>
           <div style="flex: 1; padding: 10px;">
-            {{ <img src="media/icon.png" alt="Icon Image" style="width: 100%; height: auto;"/> }}
+            {{ <image src="media/icon.png" alt="Icon Image" style="width: 100%; height: auto;"/> }}
           </div>
         </div>
 
