@@ -3,36 +3,10 @@ title: Research
 type: landing
 
 sections:
-  - block: collection
-    id: posts
+  - block: hero
+    id: research-hero
     content:
-      title: Research
-      subtitle: "Dive into our latest research!"
-      text: ''
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        # The folders to display content from
-        folders:
-          - research
-        author: ""
-        category: ""
-        tag: ""
-        publication_type: ""
-        featured_only: false
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-      # Choose how many pages you would like to offset by
-      # Useful if you wish to show the first item in the Featured widget
-      offset: 0
-      # Field to sort by, such as Date or Title
-      sort_by: 'Date'
-      sort_ascending: false
-    design:
-      # Choose a listing view
-      view: 2
-      # Choose single or dual column layout
-      columns: '2'
+      title: Background
+      subtitle: ""
+      text: Neuroblastoma is the most common extracranial solid pediatric cancer accounting for 8-10% of cancers in childhood and 15% of pediatric oncology deaths. Neuroblastoma arises from the developing sympatho-adrenal lineage during the embryonic development. It is a genetically heterogeneous disease with a diverse clinical outcome ranging from spontaneous tumour regression to malignant metastatic disease with relapses and poor response to current therapy. While patients whose tumours undergo spontaneous regression or maturation (ganglioneuroblastomas, ganglioneuromas) have mostly an excellent outcome, only a minority of children with aggressive tumours can be cured. Despite the advances in genomic and trancriptomic analyses, the identification of molecular determinants of the very poor therapeutic response and worst outcome of high-risk patients remains challenging. Thus, a better understanding of the biology of both, spontaneously regressing/maturing and aggressive tumours is of high interest to develop novel treatment approaches.
 ---
