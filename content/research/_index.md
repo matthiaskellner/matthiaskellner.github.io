@@ -13,7 +13,7 @@ sections:
     id: research-markdown2
     content:
       title: Our research
-      subtitle:
+      subtitle: 'asdf'
       text: **Biology of high risk neuroblastoma** |
         ABCDEFGH |
         <p style="color: red">12345</p>
