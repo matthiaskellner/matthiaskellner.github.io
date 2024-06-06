@@ -14,17 +14,5 @@ sections:
     content:
       title: Our research
       subtitle: Biology of high risk neuroblastoma
-      text: |
-        <div style="display: flex; align-items: center;">
-          <div style="flex: 1; padding: 10px;">
-            <h2>Welcome to My Site</h2>
-            <p>This is a description or introductory text that gives visitors more information about what the site is about. You can place any content here, including lists, links, and more.</p>
-          </div>
-          <div style="flex: 1; padding: 10px;">
-            <img src="/assets/media/icon.png" alt="Sample Image" style="width: 100%; height: auto;"/>
-          </div>
-        </div>
-    design:
-      view: showcase
-      columns: '1'
+      text: ABCDEFGH
 ---
