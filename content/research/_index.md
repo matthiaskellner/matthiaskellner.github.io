@@ -35,4 +35,18 @@ sections:
             <img src="/images/fig2.png" alt="Icon Image two" style="width: 100%; height: auto;"/>
           </div>
         </div>
+
+  - block: markdown
+    content:
+      title:
+      text: |
+        <div style="display: flex; align-items: center;">
+          <div style="flex: 1; padding: 15px;">
+            <img src="/images/fig3.png" alt="Icon Image" style="width: 100%; height: auto;"/>
+          </div>
+          <div style="flex: 2; padding: 15px;">
+            <p style="font-weight: bold;">Development of new diagnostics and prognostic markers for precision oncology</p>
+            <p>Another focus of our group is the translation of current research to clinical practice with the development of better diagnostic approaches and prognostic markers. As pediatric solid tumours are rare, this can only be addressed within the scope of multi-center as well as multi-disciplinary cooperation. Towards this, we are part of different consortia and collaborative studies, that bring together experts in the fields of biological and computer-based research with pediatric oncologists. In addition to molecular profiling of the primary tumor and bone marrow, novel liquid biopsy approaches, i.e. the analysis of tumor markers in body fluids, are important tools to monitor cancer patients and detect relapse early. We employ advanced bioinformatics analyses, AI-based machine-learning and customized visualization strategies on complex multi-dimensional data for identifying novel markers for precision oncology. As an example, we have recently developed the VISIOMICS software platform http://www.visiomics.at/, which supports an integrated analysis of image and multiOMICS data for tumour diagnostics.</p>
+          </div>
+        </div>
 ---
