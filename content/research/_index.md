@@ -14,7 +14,7 @@ sections:
       text: |
         <div style="display: flex; align-items: center;">
           <div style="flex: 1; padding: 10px;">
-            <img src="/images/icon.png" alt="Icon Image" style="width: 100%; height: auto;"/>
+            <img src="/images/fig1.png" alt="Icon Image" style="width: 100%; height: auto;"/>
           </div>
           <div style="flex: 2; padding: 10px;">
             <p style="font-weight: bold;">Biology of high-risk neuroblastoma</p>
