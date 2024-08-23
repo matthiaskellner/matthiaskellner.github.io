@@ -15,7 +15,7 @@ sections:
       text: |
         <div style="display: flex; align-items: center;">
           <div style="flex: 1; padding: 15px;">
-            <img src="/images/fig1.png" alt="Icon Image" style="width: 100%; height: auto;"/>
+            <img src="/images/fig1.png" style="width: 100%; height: auto;"/>
           </div>
           <div style="flex: 2; padding: 15px;">
             <p style="font-weight: bold; font-size: 1em;">Biology of high-risk neuroblastoma</p>
@@ -33,7 +33,7 @@ sections:
             <p style="font-size: 0.8em;">Solid tumours often consist of different subpopulations of cells that harbor distinct genotypes and phenotypes. This results in a variation of clinically important features such as the abundance of prognostic markers and therapeutic targets, leading to differential levels of treatment sensitivity. Tumour cell metastasis and adaptation to new tissue microenvironments can further promote inter- and intratumour heterogeneity among metastasizing and disseminated tumour cells. In support of this notion, we have recently shown that disseminated tumour cells in the bone marrow substantially differ from the tumour they originated from in regards to their genetic makeup and expression programs. Tumour cells disseminate to the bone marrow in various solid cancers such as neuroblastoma, breast cancer and Ewing sarcoma, which is associated with poor outcome. In the majority of metastatic neuroblastoma patients, disseminated tumour cells are present in the bone marrow already at the time point of diagnosis. Our aim is to capture the full spectrum of tumor cells in neuroblastoma and to understand their interaction with the tumor microenvironment at the primary site and in the metastatic bone marrow by using novel single-cell-omics and multiplex imaging technologies. This will allow us to identify new biomarkers and to develop better therapeutics for targeted treatment.</p>
           </div>
           <div style="flex: 1; padding: 15px;">
-            <img src="/images/fig2.png" alt="Icon Image two" style="width: 100%; height: auto;"/>
+            <img src="/images/fig2.png" style="width: 100%; height: auto;"/>
           </div>
         </div>
 
@@ -43,7 +43,7 @@ sections:
       text: |
         <div style="display: flex; align-items: center;">
           <div style="flex: 1; padding: 15px;">
-            <img src="/images/fig3.png" alt="Icon Image" style="width: 100%; height: auto;"/>
+            <img src="/images/fig3.png" style="width: 100%; height: auto;"/>
           </div>
           <div style="flex: 2; padding: 15px;">
             <p style="font-weight: bold; font-size: 1em;">Development of new diagnostics and prognostic markers for precision oncology</p>
